@@ -1,0 +1,78 @@
+body{
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.App{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: Bold;
+    text-align: center;
+    color: red;
+    width: 900px;
+    height: 50px;
+    font-weight: 300px;
+    background-color: black;
+    
+
+}
+.img{
+    border-radius: 35px;
+    border: 7px solid black;
+} 
+.cri{
+    border-radius: 35px;
+    border: 7px solid black;
+    
+}
+.jk{
+    display: flex;
+    color: brown;
+    }
+
+.dh{
+        min-height: 100vh;
+        display: flex;
+        flex: 1;
+        position: relative;
+        position: absolute;
+        height: 100%;
+        width: 400px;
+        right: 1rem;
+
+        border-radius: 35px;
+        border: 12px solid black;
+        background-color: whitesmoke;
+    }
+    
+.j{
+    color: blue;
+    width: 600px;
+    height: 50px;
+    text-align: center;
+    right: 4rem;
+}
+.di{
+        text-align: center;
+         min-height: 70vh;
+        position: absolute;
+        width: 400px;
+        left: 35rem;
+        background-color: whitesmoke;
+}
+body {
+    background-image: linear-gradient(to right, #fcc5e4 0%, #fda34b 15%, #ff7882 35%, #c8699e 52%, #7046aa 71%, #0c1db8 87%, #020f75 100%);
+}
+/* form {
+    background-color:aliceblue;
+    border-radius: 20px;
+    width: 40%;
+    height: 50%;
+    margin: auto;
+    padding: 20px;
+}
+img {
+    float: right;
+}
+h1{
+    width: 100%;
+    color: black;
+} */
